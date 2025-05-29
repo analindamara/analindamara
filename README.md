@@ -1,5 +1,5 @@
 <!-- Simulação de fundo com imagem -->
-<div style="background-image: url('https://your-image-link.com/borboleta.jpg'); background-size: cover; padding: 40px; border-radius: 15px; color: white;">
+<div style="background-image: url('https://_Not for commercial use, personal use only ✨.jpg'); background-size: cover; padding: 40px; border-radius: 15px; color: white;">
 
 
 <h1 align="center">👋 Olá, eu sou Ana Luiza</h1>
