@@ -1,6 +1,6 @@
 <!-- Banner Borboleta -->
 <p align="center">
-  <img src="https://your-image-link.com/borboleta.jpg" alt="Banner Borboleta" width="700">
+  <img src="_Not for commercial use, personal use only ✨.jpg" alt="Banner Borboleta" width="700">
 </p>
 
 # 👋 Olá, eu sou Ana Luiza
