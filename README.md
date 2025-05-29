@@ -1,10 +1,6 @@
-<!-- Banner Borboleta -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/analindamara/analindamara/main/borboleta.jpg" alt="Banner Borboleta" width="700">
-</p>
 
 <h1 align="center">👋 Olá, eu sou Ana Luiza</h1>
-<p align="center">Desenvolvedora focada em <strong>Java</strong> e apaixonada por tecnologia 💻</p>
+<p align="center">Desenvolvedora linguagem destaque <strong>Java</strong> e apaixonada por tecnologia 💻</p>
 
 ---
 
