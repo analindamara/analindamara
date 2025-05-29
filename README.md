@@ -6,7 +6,7 @@
 # 👋 Olá, eu sou Ana Luiza
 
 Bem-vindo(a) ao meu perfil no GitHub!  
-Sou uma desenvolvedora com foco em **Java** e apaixonada por tecnologia e aprendizado contínuo.
+Sou uma desenvolvedora, formada em desenvolvimento de sistemas pelo senai cttit
 
 ## 💼 Projetos em Destaque
 
