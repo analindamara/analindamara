@@ -1,16 +1,31 @@
-## Hi there 👋
+![Banner Rosa](https://via.placeholder.com/1200x300/FF66B2/FFFFFF?text=Ana+Luiza+-+Desenvolvedora)
 
-<!--
-**analindamara/analindamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Ana Luiza
 
-Here are some ideas to get you started:
+Bem-vindo(a) ao meu perfil no GitHub!  
+Sou uma desenvolvedora com foco em **Java** e apaixonada por tecnologia e aprendizado contínuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projetos em Destaque
+
+Aqui estão alguns dos repositórios que refletem meus estudos e evolução com a linguagem Java:
+
+- 🔹 [API de Controle de Estoque](https://github.com/analindamara/Api_ControleEstoque)
+- 🔹 [Projetos de Orientação a Objetos](https://github.com/analindamara/orientacaoAobjeto)
+- 🔹 [Exercícios de Programação com Objetos](https://github.com/analindamara/Objeto)
+- 🔹 [Atividades em Java](https://github.com/analindamara/atividadesJAVA)
+
+## 🛠️ Tecnologias
+
+- Java (principais projetos)
+- Git & GitHub
+- Princípios de Orientação a Objetos
+- Lógica de Programação
+
+## 📫 Contato
+
+- 📧 Email: [anagomes360luiza@gmail.com](mailto:anagomes360luiza@gmail.com)
+- 📷 Instagram: [@_analuxrz](https://www.instagram.com/_analuxrz?igsh=eW9zbnN3M3ppNzNn)
+
+---
+
+> “A persistência é o caminho do êxito.” — Charles Chaplin
