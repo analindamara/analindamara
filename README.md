@@ -1,6 +1,6 @@
 <!-- Banner Borboleta -->
 <p align="center">
-  <img src="_Not for commercial use, personal use only ✨.jpg" alt="Banner Borboleta" width="700">
+  <img src="https://raw.githubusercontent.com/analindamara/analindamara/main/borboleta.jpg" alt="Banner Borboleta" width="700">
 </p>
 
 # 👋 Olá, eu sou Ana Luiza
@@ -32,5 +32,6 @@ Aqui estão alguns dos repositórios que refletem meus estudos e evolução com 
 ---
 
 > “A persistência é o caminho do êxito.” — Charles Chaplin
+
 
 
