@@ -1,4 +1,7 @@
-![Banner Rosa](https://via.placeholder.com/1200x300/FF66B2/FFFFFF?text=Ana+Luiza+-+Desenvolvedora)
+<!-- Banner Borboleta -->
+<p align="center">
+  <img src="https://your-image-link.com/borboleta.jpg" alt="Banner Borboleta" width="700">
+</p>
 
 # 👋 Olá, eu sou Ana Luiza
 
@@ -29,3 +32,5 @@ Aqui estão alguns dos repositórios que refletem meus estudos e evolução com 
 ---
 
 > “A persistência é o caminho do êxito.” — Charles Chaplin
+
+
