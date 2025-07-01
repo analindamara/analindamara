@@ -1,61 +1,61 @@
-<div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #c9d1d9; background-color: #0d1117; padding: 20px; border-radius: 6px;">
+<h1 align="center">👋 Olá, eu sou a Ana Luiza!</h1>
 
-  <!-- Profile Header -->
-  <div style="display: flex; align-items: flex-start; margin-bottom: 16px;">
-    <div style="margin-right: 16px;">
-      <img src="https://via.placeholder.com/100" alt="Profile" style="width: 100px; height: 100px; border-radius: 50%;">
-    </div>
-    <div>
-      <h1 style="font-weight: 600; font-size: 24px; margin-bottom: 0; color: #c9d1d9;">Ana Luiza</h1>
-      <p style="color: #8b949e; margin-top: 0; margin-bottom: 8px;">analindamara</p>
-      <p style="color: #c9d1d9; margin-bottom: 12px; font-size: 14px;">Desenvolvedora | Soluções Tecnológicas & Inovação</p>
-      <button style="background-color: #21262d; color: #c9d1d9; border: 1px solid #30363d; border-radius: 6px; padding: 3px 12px; font-size: 12px; cursor: pointer;">Edit profile</button>
-    </div>
-  </div>
+<p align="center">
+  Desenvolvedora | Soluções Tecnológicas & Inovação  
+</p>
 
-  <!-- Contact Info -->
-  <div style="margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #21262d;">
-    <p style="margin: 0; color: #8b949e; font-size: 14px;">
-      <strong>Contato</strong><br>
-      <a href="mailto:anagomes360luiza@gmail.com" style="color: #58a6ff; text-decoration: none;">anagomes360luiza@gmail.com</a>
-    </p>
-  </div>
+<p align="center">
+  <a href="mailto:anagomes360luiza@gmail.com">📧 E-mail</a> |
+  <a href="https://www.instagram.com/_analuxrz" target="_blank">📸 Instagram</a> |
+  <a href="https://github.com/analindamara" target="_blank">📂 Projetos</a> |
+  <a href="#">🌐 Portfólio</a>
+</p>
 
-  <!-- Member Since -->
-  <div style="margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #21262d;">
-    <p style="margin: 0; color: #8b949e; font-size: 14px;">
-      <strong>GitHub Stats</strong>
-    </p>
-  </div>
+---
 
-  <!-- About Section -->
-  <div style="margin-bottom: 16px;">
-    <h2 style="font-size: 16px; font-weight: 600; margin-bottom: 12px; color: #c9d1d9;">Sobre mim</h2>
-    <ul style="padding-left: 16px; margin: 0; color: #c9d1d9; font-size: 14px; list-style-type: none;">
-      <li><strong>Ana Luiza's GitHub State</strong></li>
-      <li>- Projetos em Java</li>
-      <li>- Desenvolvimento de APIs</li>
-      <li>- Controle de Estoque</li>
-      <li>- Atividades de Programação</li>
-    </ul>
-  </div>
+### 🧠 Sobre mim
 
-  <!-- Languages Section -->
-  <div style="margin-bottom: 16px;">
-    <h2 style="font-size: 16px; font-weight: 600; margin-bottom: 12px; color: #c9d1d9;">Tecnologias</h2>
-    <ul style="padding-left: 16px; margin: 0; color: #c9d1d9; font-size: 14px; list-style-type: none;">
-      <li>- Java</li>
-      <li>- Git/GitHub</li>
-      <li>- HTML/CSS</li>
-      <li>- Programação OO</li>
-    </ul>
-  </div>
+- 💻 Estudante e desenvolvedora focada em soluções inteligentes
+- 🧪 Experiência com **APIs**, **Java** e **Controle de Estoque**
+- 📚 Em constante aprendizado e evolução no mundo da programação
 
-  <!-- Links Section -->
-  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px;">
-    <a href="https://www.instagram.com/_analuxrz" style="color: #58a6ff; text-decoration: none; font-size: 14px; font-weight: 600;">INSTAGRAM</a>
-    <a href="#" style="color: #58a6ff; text-decoration: none; font-size: 14px; font-weight: 600;">PORTFÓLIO</a>
-    <a href="https://github.com/analindamara" style="color: #58a6ff; text-decoration: none; font-size: 14px; font-weight: 600;">PROJETOS</a>
-  </div>
+---
 
-</div>
+### 🚀 Tecnologias & Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+| Estatísticas | Valor |
+|--------------|-------|
+| 📁 Projetos  | APIs, Controle de Estoque, Programação OO |
+| 🛠️ Foco      | Backend com Java |
+| 📌 Linguagens | Java, HTML, CSS, Git |
+
+---
+
+### 🗺️ Localização
+
+📍 Criciúma, Santa Catarina, Brasil
+
+---
+
+### ✨ Curiosidades
+
+- 📅 Início dos estudos em programação: **202x**
+- 🚀 Sonho: trabalhar com **tecnologia de impacto social**
+- 🤝 Aberta para colaborações e projetos!
+
+---
+
+<p align="center">
+  Obrigada pela visita! 🌟
+</p>
