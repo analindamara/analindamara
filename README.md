@@ -3,7 +3,7 @@
 
 
 <h1 align="center">👋 Olá, eu sou Ana Luiza</h1>
-<p align="center">Desenvolvedora linguagem destaque <strong>Java</strong> e apaixonada por tecnologia 💻</p>
+<p align="center">Desenvolvedora linguagem destaque <strong>Java</strong> 💻</p>
 
 ---
 
