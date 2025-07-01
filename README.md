@@ -50,9 +50,11 @@
 
 ### ✨ Curiosidades
 
-- 📅 Início dos estudos em programação: **202x**
-- 🚀 Sonho: trabalhar com **tecnologia de impacto social**
-- 🤝 Aberta para colaborações e projetos!
+📅 Iniciei minha jornada na área de tecnologia em 2024
+
+🎓 Atualmente estou cursando Desenvolvimento de Sistemas no SENAI CTTI
+
+🚀 Meu foco está em aprender cada dia mais sobre programação e desenvolvimento de soluções reais
 
 ---
 
