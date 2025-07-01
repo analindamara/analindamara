@@ -44,7 +44,7 @@
 
 ### 🗺️ Localização
 
-📍 Criciúma, Santa Catarina, Brasil
+📍 Minas Gerais , Belo Horizonte, Brasil
 
 ---
 
