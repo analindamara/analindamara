@@ -2,6 +2,20 @@
 
 <div style="background: #fce4ec; padding: 40px; border-radius: 15px; color: #4a148c; font-family: Arial, sans-serif;">
 
+<!-- Linha rosa e nome com personagem anime -->
+<hr style="border: 2px solid #f8bbd0; margin-bottom: 20px;" />
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 20px;">
+
+  <!-- Personagem de anime (você pode trocar o link se quiser outro) -->
+  <img src="https://i.imgur.com/1Xgk5qj.png" alt="Anime Girl" width="80" style="border-radius: 50%;" />
+
+  <!-- Nome -->
+  <h1 style="color: #ad1457; font-family: 'Segoe UI', sans-serif; margin: 0;">Ana</h1>
+
+</div>
+
+<!-- Saudações -->
 <h1 align="center" style="color: #ad1457;">🌷 Olá, eu sou Ana Luiza</h1>
 <p align="center"><strong>Desenvolvedora com foco em Java 💻</strong></p>
 
@@ -36,15 +50,5 @@
 
 <hr style="border: 1px solid #f8bbd0;" />
 
-## 📊 GitHub Stats
-
-![Ana Luiza GitHub Stats](https://github-readme-stats.vercel.app/api?username=analindamara&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analindamara&layout=compact&theme=radical)
-
-<hr style="border: 1px solid #f8bbd0;" />
-
-> 🌸 *“A persistência é o caminho do êxito.” — Charles Chaplin*
-
 </div>
 
-> “A persistência é o caminho do êxito.” — Charles Chaplin
