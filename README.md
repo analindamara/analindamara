@@ -7,11 +7,15 @@
 
 <div align="center">
 
-  <!-- Personagem de anime -->
+<div style="display: flex; align-items: center; gap: 15px;">
+  <!-- Imagem do personagem anime -->
   <img src="https://raw.githubusercontent.com/analindamara/analindamara/main/download.jpg" alt="Anime Girl" width="80" style="border-radius: 50%;" />
+  
+  <!-- Texto ao lado da imagem -->
+  <p style="margin: 0; font-size: 18px; font-family: Arial, sans-serif;">Olá, eu sou Ana Luiza</p>
+</div>
 
-  <!-- Nome -->
-  <h1>Ana</h1>
+  
 
 </div>
 
