@@ -8,7 +8,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 20px;">
 
   <!-- Personagem de anime (você pode trocar o link se quiser outro) -->
-  <img src="https://i.imgur.com/1Xgk5qj.png" alt="Anime Girl" width="80" style="border-radius: 50%;" />
+  <img src="download.jpg" alt="Anime Girl" width="80" style="border-radius: 50%;" />
 
   <!-- Nome -->
   <h1 style="color: #ad1457; font-family: 'Segoe UI', sans-serif; margin: 0;">Ana</h1>
